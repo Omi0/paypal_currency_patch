@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Quark_Paypal>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Quark_Paypal>
+	</modules>
+</config>
